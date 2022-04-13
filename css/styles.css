@@ -1,0 +1,25 @@
+.rowDefine {
+  margin:0;
+  padding: 0;
+  min-height: 100px;
+  height: 8vw;
+}
+.rowDefine2{
+    height: 12vw;
+    margin:0;
+    padding: 0;
+    min-height: 100px;
+}
+.colored{
+  border: 3px solid darkblue;
+  text-align: center;
+}
+body {
+  background-color: lightblue;
+}
+.divide{
+  height: 1.25vh;
+}
+.BiggerText{
+  font-size: 4vw;
+}
